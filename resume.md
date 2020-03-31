@@ -7,4 +7,6 @@
 
 ---
 
-## [Get PDF](files/Resume-LucasBrown.pdf)![Resume](images/Resume-LucasBrown.jpg)
+#### <a href="files/Resume-LucasBrown.pdf" target="_blank">Get PDF</a>
+
+![Resume](images/Resume-LucasBrown.jpg)

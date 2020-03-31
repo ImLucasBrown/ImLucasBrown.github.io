@@ -9,11 +9,11 @@
 
 Hi there! I’m a Rigging/Technical artist with experience developing rigs, pipeline tools, and motion capture workflows for games and animation. Knowledgeable in various rigging techniques, animation, pipeline structures, yielding reliable and repeatable results. Motivated and excited to work with animators and programmers to bring characters to life.
 
-## Reel
+## <a href="https://vimeo.com/319548283" target="_blank">Reel</a>
 
-[![Lucas Brown - Rigging / Technical Artist from Lucas Brown on Vimeo](images/thumb.jpg)](https://player.vimeo.com/video/319548283)
+<a href="https://vimeo.com/319548283" target="_blank">![Lucas Brown - Rigging / Technical Artist on Vimeo](images/thumb.jpg)</a>
 
-| Resume                               | Projects                         |
+| [Resume](resume.md)                               | [Projects](pojects.md)                         |
 |:------------------------------------:|:--------------------------------:|
 | View or download a PDF of my resume. | Check out some of my other work. |
-| [View Resume](/resume.md) →          | [Find Out More](/projects.md) →  |
+| <a href="resume.md" target="_blank">View Resume</a> →          | <a href="projects.md" target="_blank">See Projects</a> →   |
