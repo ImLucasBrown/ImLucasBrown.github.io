@@ -3,7 +3,12 @@
 | [Home](index.md) | [Resume](resume.md) | [About](about.md) | [Blog](blog.md) | [Contact](contact.md) |
 | --- | --- | --- | --- | --- |
 
-Hi there! I’m a Rigging/Technical artist with experience developing rigs, pipeline tools, and motion capture workflows for games and animation. Knowledgeable in various rigging techniques, animation, pipeline structures, yielding reliable and repeatable results. Motivated and excited to work with animators and programmers to bring characters to life.
+Hi there! I’m a Pipeline TD/Technical artist with experience in full stack 
+Python development, pipeline backend/tools, rigging, Pixar USD, and motion 
+capture for animation and games. I'm committed to expandable and easily 
+deployable systems. I even write docstrings and unittests! 
+Motivated and excited to work with supervisors, artists, and programmers to
+ create a well oiled, easy to use, CG pipeline.
 
 ## <a href="https://vimeo.com/319548283" target="_blank">Reel</a>
 
