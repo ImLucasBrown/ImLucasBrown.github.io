@@ -1,7 +1,7 @@
 # Lucas Brown - TD
 
-| [Home](index.md) | [Resume](resume.md) | [About](about.md) | [Blog](blog.md) | [Contact](contact.md) |
-| --- | --- | --- | --- | --- |
+| Home | [Resume](resume.md) | [About](about.md) | [Projects](pojects.md) |
+| --- | --- | --- | --- |
 
 Hi there! I’m a Pipeline TD/Technical artist with experience in full stack 
 Python development, pipeline backend/tools, rigging, Pixar USD, and motion 
@@ -14,7 +14,7 @@ Motivated and excited to work with supervisors, artists, and programmers to
 
 <a href="https://vimeo.com/319548283" target="_blank">![Lucas Brown - Rigging / Technical Artist on Vimeo](images/thumb.jpg)</a>
 
-| [Resume](resume.md)                                   | [Projects](pojects.md)                                   |
+| [Resume](resume.md)                                   | [Projects](projects.md)                                   |
 |:---:|:---:|
 | View or download a PDF of my resume.                  | Check out some of my other work.                         |
 | <a href="resume.md" target="_blank">View Resume</a> → | <a href="projects.md" target="_blank">See Projects</a> → |
