@@ -2,8 +2,8 @@
 
 ---
 
-| [Home](index.md) | Resume | [About](about.md) |
-| ---------------- | ------ | ----------------- |
+| [Home](index.md) | Resume | [About](about.md) | [Projects](projects.md) |
+| ---------------- | ------ | ----------------- | ----------------------- |
 
 ---
 
