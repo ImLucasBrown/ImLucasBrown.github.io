@@ -3,7 +3,9 @@
 ---
 
 | Home | [Resume](resume.md) | [About](about.md) | [Projects](projects.md) |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
+
+---
 
 Hi there! I’m a Pipeline TD/Technical artist with experience in full stack 
 Python development, pipeline backend/tools, rigging, Pixar USD, and motion 
