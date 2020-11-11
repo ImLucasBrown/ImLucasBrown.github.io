@@ -20,6 +20,6 @@ related to computer graphics and linear processing. Nxt bridges the gap
 between one-off scripting and general purpose tools through the use of 
 inheritance, layering, and string tokens.
 
-[Learn more!](https://sunriseproductions.github.io/nxt/)
+<a href=https://sunriseproductions.github.io/nxt/ target="blank">Learn more!</a>
 
 ![nxt_layers](images/nxt_layers01.gif)
