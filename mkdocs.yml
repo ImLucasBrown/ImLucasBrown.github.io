@@ -12,7 +12,6 @@ markdown_extensions:
   - admonition
 
 theme:
-  name: material
-  highlightjs: true
-  hljs_style: tomorrow-night
-      - python
+  name: null
+  custom_dir: 'cinder'
+  colorscheme: dracula
