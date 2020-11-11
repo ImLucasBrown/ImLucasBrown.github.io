@@ -2,12 +2,8 @@
 
 ---
 
-| [Home](index.md) | [Resume](resume.md) | [About](about.md) | Projects|
-| --- | --- | --- | --- |
 
----
-
-### [NXT - Node eXecution Tree](https://sunriseproductions.github.io/nxt/)
+### <a href=https://sunriseproductions.github.io/nxt/ target=blank>NXT - Node eXecution Tree</a>
 **Role:** Lead Developer
 
 **Programming Language:** Python
@@ -26,7 +22,4 @@ inheritance, layering, and string tokens.
 
 [Learn more!](https://sunriseproductions.github.io/nxt/)
 
-
 ![nxt_layers](images/nxt_layers01.gif)
----
-

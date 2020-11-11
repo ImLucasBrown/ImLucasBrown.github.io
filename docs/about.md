@@ -2,11 +2,6 @@
 
 ---
 
-| [Home](index.md) | [Resume](resume.md) | About | [Projects](pojects.md) |
-| --- | --- | --- | --- |
-
----
-
 I have experience in rigging and motion capture retargeting using 3rd party animation tools and plugins. 
 I am trained in Maya and am experienced with Python. 
 I focus on rapid and reusable solutions for rigging and animation tools. 
@@ -20,6 +15,7 @@ Current city: Orlando, Florida
 
 ---
 
-###### Social Media
+###### Other Places I'm on the internet
 
 <a href="https://www.linkedin.com/in/imlucasbrown" target="_blank">![LinkedIn](images/linkedin.svg)</a>
+<a href="https://github.com/ImLucasBrown" target="_blank">![LinkedIn](images/github.svg)</a>
