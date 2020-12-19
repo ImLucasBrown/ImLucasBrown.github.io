@@ -2,10 +2,17 @@
 ---
 Hi there! I’m a Pipeline TD/Technical artist with experience in full stack 
 Python development, pipeline backend/tools, rigging, Pixar USD, and motion 
-capture for animation and games. I'm committed to expandable and easily 
+capture for animation and games.   
+I'm committed to expandable and easily 
 deployable systems. I even write docstrings and unittests! 
-Motivated and excited to work with supervisors, artists, and programmers to
+Highly motivated and excited to work with supervisors, artists, and programmers to
  create a well oiled, easy to use, CG pipeline.
+
+Most recently I was intricately involved in the [Node Execution Tree (NXT)](projects#nxt-node-execution-tree) project. NXT is an open source Python layering and execution tool for animation and VFX.
+
+---
+
+Previously I worked as a rigger producing rigs for realtime environments. Below is my rigging reel.
 <div style="text-align: center;">
 <iframe src="https://player.vimeo.com/video/319548283" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

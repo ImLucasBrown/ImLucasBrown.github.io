@@ -3,7 +3,7 @@
 ---
 
 
-### <a href=https://sunriseproductions.github.io/nxt/ target=blank>NXT - Node eXecution Tree</a>
+### <a href=https://nxt-dev.github.io target=blank>NXT - Node Execution Tree</a>
 **Role:** Lead Developer
 
 **Programming Language:** Python
@@ -12,14 +12,22 @@
 
 ---
 
+!!! note "What is NXT?"
+    NXT is a Python layering and sequential execution tool for animation and VFX.
 
-Nxt is a script composition tool designed for rigging, scene assembly, and automation.
 
-The primary function of nxt is to visualize and automate programming tasks 
-related to computer graphics and linear processing. Nxt bridges the gap
+NXT visualizes complex scripts and empowers cross discipline collaboration. It bridges the gap
 between one-off scripting and general purpose tools through the use of 
-inheritance, layering, and string tokens.
+layering, inheritance, and string tokens.
 
-<a href=https://sunriseproductions.github.io/nxt/ target="blank">Learn more!</a>
 
-![nxt_layers](images/nxt_layers01.gif)
+In the simplest of terms nxt combines multiple layers of nodes into a single composite layer that is then executable. 
+Something like Photoshop layers for your code, you're able to mute, solo, override, and extend layers of code. 
+The resulting composite of the code clearly visualizes where attributes and their values came from. Colors, node paths, 
+and conveniently placed buttons/links allow users to quickly jump to and correct erroneous values.  
+<a href=https://nxt-dev.github.io target="blank">Learn more!</a>
+
+!!! note "Public Announcement Video"
+    <center>Coming soon...
+    <img src="../images/LayerTiltShift.gif" alt="NXT Layers" style="height:400px;">
+    </center>
