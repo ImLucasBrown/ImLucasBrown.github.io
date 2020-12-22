@@ -27,7 +27,5 @@ The resulting composite of the code clearly visualizes where attributes and thei
 and conveniently placed buttons/links allow users to quickly jump to and correct erroneous values.  
 <a href=https://nxt-dev.github.io target="blank">Learn more!</a>
 
-!!! note "Public Announcement Video"
-    <center>Coming soon...
-    <img src="../images/LayerTiltShift.gif" alt="NXT Layers" style="height:400px;">
-    </center>
+!!! note "NXT First Look"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8UqIjSkbG3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
