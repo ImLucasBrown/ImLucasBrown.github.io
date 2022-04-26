@@ -1,21 +1,21 @@
 # Lucas Brown - TD
 ---
-Hi there! I’m a Pipeline TD/Technical artist with experience in full stack 
-Python development, pipeline backend/tools, rigging, Pixar USD, and motion 
-capture for animation and games.   
+Hi there! I’m a Pipeline TD with experience in full stack 
+Python development, pipeline backend, rigging, Shotgrid automation, for product design, animation, games.   
 I'm committed to expandable and easily 
 deployable systems. I even write docstrings and unittests! 
 Highly motivated and excited to work with supervisors, artists, and programmers to
  create a well oiled, easy to use, CG pipeline.
 
-Most recently I was intricately involved in the [Node Execution Tree (NXT)](projects#nxt-node-execution-tree) project. NXT is an open source Python layering and execution tool for animation and VFX.
-
 ---
 
-Previously I worked as a rigger producing character and prop rigs for realtime environments. Below is my rigging reel.
+### Open Source
+I'm intricately involved in the [Node Execution Tree (NXT)](projects#nxt-node-execution-tree) project. NXT is an open source Python layering and execution tool for animation and VFX.  Since it first went public in late 2020, NXT has found it's way in to several large studios and projects. 
 <div style="text-align: center;">
-<iframe src="https://player.vimeo.com/video/319548283" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8UqIjSkbG3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+<div style="text-align: center;">
 <table>
 <tr>
 <th style="text-align: center">Resume</th>

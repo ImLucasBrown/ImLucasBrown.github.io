@@ -1,12 +1,13 @@
 site_name: Lucas Brown TD
 site_description: Lucas Brown TD
-copyright: 2020 Lucas Brown
+copyright: 2022 Lucas Brown
 
 nav:
     - Home: index.md
     - Projects: projects.md
     - Resume: resume.md
     - About: about.md
+    - Old Stuff: old_stuff.md
 
 markdown_extensions:
   - admonition
