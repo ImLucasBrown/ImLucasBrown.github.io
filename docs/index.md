@@ -1,9 +1,9 @@
 # Lucas Brown - TD
 ---
-Hi there! I’m a Pipeline TD with experience in full stack 
-Python development, pipeline backend, rigging, Shotgrid automation, for product design, animation, games.   
-I'm committed to expandable and easily 
-deployable systems. I even write docstrings and unittests! 
+Hi there! I’m a 3D Technical Director with experience in full stack 
+Python development, pipelines, automation, Shotgrid, rigging. I've been involved in everything from games to product design.   
+I'm committed to easily extensible and rapidly deployable systems. I even write docstrings and unittests! 
+I manage teams and projects with a focus on understanding the why and always thinking towards future expansion.
 Highly motivated and excited to work with supervisors, artists, and programmers to
  create a well oiled, easy to use, CG pipeline.
 
