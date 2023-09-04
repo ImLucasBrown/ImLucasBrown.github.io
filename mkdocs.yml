@@ -1,6 +1,6 @@
 site_name: Lucas Brown TD
-site_description: Lucas Brown TD
-copyright: 2022 Lucas Brown
+site_description: Lucas Brown - Technical Director
+copyright: 2023 Lucas Brown
 
 nav:
     - Home: index.md
