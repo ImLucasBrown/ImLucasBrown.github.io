@@ -7,7 +7,6 @@ nav:
     - Projects: projects.md
     - Resume: resume.md
     - About: about.md
-    - Old Stuff: old_stuff.md
 
 markdown_extensions:
   - admonition
