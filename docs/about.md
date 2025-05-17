@@ -1,20 +1,32 @@
-# Lucas Brown - TD
-
----
-From a young age I've been interested in computer graphics and coding.  In high school I built websites as a side job. In university, I studied animation, but quickly found I enjoyed rigging and scripting. After university, I worked for a bit in video games for VR and mobile platforms. As I started to lean more into Pipeline and began working on NXT. I spent some time building USD from source and learning about its data structures. Understanding the USD system gave me the design insights needed to vastly improve the inner workings of the NXT composition engine. Ultimately, NXT was made public and adopted by several studios and teams. Contributing to the open source community has been a really exciting and challenging experience.
-Most recently I've moved into a large scale CGI pipeline which processes thousands of unique renders for some of the most prolific consumer product brands out there. I've handled the creation and support of a large library of Shotgrid toolkit apps. The various apps give artists and production the tools they need to get work done quickly and easily. I've been able to apply my knowledge of Qt both in and outside DCCs.  
-On the backend I've been responsible for an ORM class system to give easy Pythonic access to Shotgrid entities. I'm also experienced with Deadline render farms. Currently, working on cloud rending workflows in Deadline using AWS.  
-My previous work as a rigger and technical artist taught me to quickly learn new software packages and services. I've applied those skills in both games and animation pipelines on everything from rigging to publishing.  
-I really love what I do, and I enjoy the challenges of the computer graphics industry.
+# About Me
 
 ---
 
-Nationality: US Citizen  
-Current city: Georgetown Texas
+I’m Lucas Brown, a Pipeline TD turned technical leader with a love for building systems that let artists focus on artistry. My journey started in high school freelancing websites, then veered into animation during university, where I quickly discovered I preferred rigging, scripting, and building tools to animating frames.
+
+Since then, I've followed that passion across game dev, animation, and large-scale CGI pipelines. I've worked in Paris, Cape Town, and now Texas, coding across Maya, Blender, and Unreal; leading pipeline overhauls and automating anything that isn’t nailed down.
+
+These days, I specialize in:  
+
+* Cross-DCC workflows (Maya, Blender, Unreal, etc.)  
+* Generative AI integration (NeRF, Gaussian Splats, Image/3D GenAI)  
+* Pipeline QA and CI/CD systems
+* Supporting VFX and virtual production pipelines—from ingest to final plate
+
+I’m a co-author of [Node Execution Tree (NXT)](https://nxt-dev.github.io), an open-source Python layering tool used by multiple studios. I’ve built full-stack apps for ShotGrid (Flow), managed multi-team roadmaps, and shipped tools used daily by hundreds of artists. I even  write docstrings.
+
+I care deeply about scalable design, collaborative engineering, and mentoring up-and-coming tech artists. I believe the best tools feel invisible; and the best pipelines grow with your team, not ahead of them.
 
 ---
 
-###### Other Places I'm on the internet
+**Nationality:** US Citizen  
+**Location:** Georgetown, Texas  
+**Currently open to:** Currently open to senior technical and hybrid leadership roles focused on pipeline, automation, or 3D R&D.
+
+
+---
+
+###### Find me here:
 
 <a href="https://www.linkedin.com/in/imlucasbrown" target="_blank">![LinkedIn](images/linkedin.svg)</a>
-<a href="https://github.com/ImLucasBrown" target="_blank">![LinkedIn](images/github.svg)</a>
+<a href="https://github.com/ImLucasBrown" target="_blank">![GitHub](images/github.svg)</a>

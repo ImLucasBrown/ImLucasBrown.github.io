@@ -1,10 +1,11 @@
-# Lucas Brown - TD
+# Lucas Brown  
+### Senior Pipeline TD | CGI Automation Lead
 
 ---
 
 
 ### <a href=https://nxt-dev.github.io target=blank>NXT - Node Execution Tree</a>
-**Role:** Lead Developer
+**Role:** Co-author and Developer
 
 **Programming Language:** Python
 

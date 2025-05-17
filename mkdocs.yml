@@ -1,6 +1,6 @@
-site_name: Lucas Brown TD
-site_description: Lucas Brown - Technical Director
-copyright: 2023 Lucas Brown
+site_name: Lucas Brown | Scalable 3D Pipelines & Tools
+site_description: Specializing in 3D content automation, creative tooling, practical AI, and cross-team systems.
+copyright: 2025 Lucas Brown
 
 nav:
     - Home: index.md
